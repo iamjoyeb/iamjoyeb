@@ -65,6 +65,19 @@
 
 ```bash
 ┌──(joyeb㉿iamjoyeb)-[~]
+└─$ cat contributions.log
+```
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00FF41/iamjoyeb" width="95%" alt="iamjoyeb's github contribution graph" />
+
+</div>
+
+<br>
+
+```bash
+┌──(joyeb㉿iamjoyeb)-[~]
 └─$ ./plot --contributions
 ```
 
@@ -96,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamjoyeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=iamjoyeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
 
 </div>
 
