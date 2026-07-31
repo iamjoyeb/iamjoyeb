@@ -65,6 +65,45 @@
 
 ```bash
 ┌──(joyeb㉿iamjoyeb)-[~]
+└─$ ./plot --contributions
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoyeb&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+<br>
+
+```bash
+┌──(joyeb㉿iamjoyeb)-[~]
+└─$ ./plot --languages
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="50%" />
+
+</div>
+
+<br>
+
+```bash
+┌──(joyeb㉿iamjoyeb)-[~]
+└─$ ./sudo unlock --trophies
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamjoyeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
+
+</div>
+
+<br>
+
+```bash
+┌──(joyeb㉿iamjoyeb)-[~]
 └─$ ./connect --to me
 ```
 
