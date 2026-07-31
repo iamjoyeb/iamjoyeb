@@ -50,10 +50,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=iamjoyeb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=iamjoyeb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%" />
 
+<!-- The two cards below are commented out — they depend on github-readme-stats.vercel.app,
+     the shared public demo which frequently returns broken images (rate limit / paused deployment).
+     See Option B (self-hosting) if you want them back reliably:
+<img src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="49%" />
+-->
 
 </div>
 
