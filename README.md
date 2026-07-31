@@ -50,10 +50,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjoyeb&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=iamjoyeb&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="49%" />
 
 </div>
 
@@ -83,7 +83,9 @@
 └─$ echo "process.exit(0)"
 ```
 
+<!-- Snake animation goes here once you set up the GitHub Action below:
 ![Snake animation](https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake-dark.svg)
+-->
 
 <img src="https://komarev.com/ghpvc/?username=iamjoyeb&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=0d1117" alt="profile views" />
 
