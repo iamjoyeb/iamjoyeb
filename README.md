@@ -70,7 +70,15 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00FF41/iamjoyeb" width="95%" alt="iamjoyeb's github contribution graph" />
+<table>
+<tr><td align="center">
+
+**// 449 contributions logged**
+
+<img src="https://ghchart.rshah.org/00FF41/iamjoyeb" width="100%" alt="iamjoyeb's github contribution graph" />
+
+</td></tr>
+</table>
 
 </div>
 
@@ -96,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="50%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamjoyeb&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="50%" />
 
 </div>
 
@@ -109,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=iamjoyeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=iamjoyeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
 
 </div>
 
