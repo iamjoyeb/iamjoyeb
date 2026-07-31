@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;joyeb+kothiya;%24+cat+role.txt;Full-Stack+Developer;%24+echo+%22status%3A+online%22" alt="Typing SVG" />
 
 </div>
@@ -11,11 +13,11 @@
 └─$ cat about.md
 ```
 
-- 🖥️  Full-Stack Developer building things end to end — UI to API to database
-- 🌱  Currently leveling up on new frameworks & tools
-- ⚡  Fueled by dark-mode IDEs and strong coffee
-- 📡  Always tinkering on a side project or two
-- 💬  Ask me about JavaScript/TypeScript, React, Node.js, or databases
+- 🖥️&nbsp; Full-Stack Developer building things end to end — UI to API to database
+- 🌱&nbsp; Currently leveling up on new frameworks & tools
+- ⚡&nbsp; Fueled by dark-mode IDEs and strong coffee
+- 📡&nbsp; Always tinkering on a side project or two
+- 💬&nbsp; Ask me about JavaScript/TypeScript, React, Node.js, or databases
 
 <br>
 
@@ -54,7 +56,7 @@
 
 <!-- The two cards below are commented out — they depend on github-readme-stats.vercel.app,
      the shared public demo which frequently returns broken images (rate limit / paused deployment).
-     See Option B (self-hosting) if you want them back reliably:
+     Uncomment and swap in your own self-hosted domain for guaranteed uptime:
 <img src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="49%" />
 -->
@@ -65,7 +67,7 @@
 
 ```bash
 ┌──(joyeb㉿iamjoyeb)-[~]
-└─$ cat contributions.log
+└─$ ./plot --calendar
 ```
 
 <div align="center">
@@ -86,7 +88,7 @@
 
 ```bash
 ┌──(joyeb㉿iamjoyeb)-[~]
-└─$ ./plot --contributions
+└─$ ./plot --activity
 ```
 
 <div align="center">
@@ -121,7 +123,7 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%"/>
 
 ```bash
 ┌──(joyeb㉿iamjoyeb)-[~]
@@ -153,6 +155,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=iamjoyeb&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=0d1117" alt="profile views" />
 
+<br><br>
+
+*"Code never lies, comments sometimes do."*
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
