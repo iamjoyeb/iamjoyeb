@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/joyeb.me-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://joyeb.me)&nbsp;
 [![GitHub](https://img.shields.io/badge/@iamjoyeb-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/iamjoyeb)&nbsp;
 
 <br/>
