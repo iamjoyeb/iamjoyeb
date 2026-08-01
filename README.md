@@ -99,11 +99,11 @@ const joyeb = {
 <div align="center">
 
 <img height="175em" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
-<img height="175em" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
+<img width="500" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
 
 <br/>
 
-<img src="https://github-stats-iam-joyeb.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
+<img width="600" src="https://github-stats-iam-joyeb.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
 
 </div>
 
