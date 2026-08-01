@@ -98,12 +98,12 @@ const joyeb = {
 
 <div align="center">
 
-<img height="175em" src="https://your-app.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
-<img height="175em" src="https://your-app.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
+<img height="175em" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
+<img height="175em" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
 
 <br/>
 
-<img src="https://your-app.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
+<img src="https://github-stats-iam-joyeb.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
 
 </div>
 
@@ -120,15 +120,15 @@ const joyeb = {
 <div align="center">
 
 <!-- Daily commit activity over the last 90 days (self-hosted) -->
-<img width="100%" style="border-radius: 12px;" src="https://your-app.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
+<img width="100%" style="border-radius: 12px;" src="https://github-stats-iam-joyeb.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
 
 <br/><br/>
 
 <!-- Animated contribution snake (self-hosted, theme-aware) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://your-app.vercel.app/api/snake?username=iamjoyeb&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://your-app.vercel.app/api/snake?username=iamjoyeb&theme=light" />
-  <img alt="contribution snake animation" src="https://your-app.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="100%" style="border-radius: 12px;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=light" />
+  <img alt="contribution snake animation" src="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="100%" style="border-radius: 12px;" />
 </picture>
 
 </div>
@@ -145,7 +145,7 @@ const joyeb = {
 
 <div align="center">
 
-<img src="https://your-app.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
+<img src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
 
 </div>
 
