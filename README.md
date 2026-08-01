@@ -129,11 +129,11 @@ const joyeb = {
 
 <br/><br/>
 
-<!-- Animated contribution snake, committed by the metrics workflow below -->
+<!-- Animated contribution snake, committed to the "output" branch by snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="./dist/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
