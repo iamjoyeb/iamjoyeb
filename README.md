@@ -98,8 +98,16 @@ const joyeb = {
 
 <div align="center">
 
-<img height="175em" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
-<img width="500" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
+<table>
+<tr>
+<td valign="top" width="42%">
+<img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
+</td>
+<td valign="top" width="58%">
+<img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -145,7 +153,7 @@ const joyeb = {
 
 <div align="center">
 
-<img src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
+<img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
 
 </div>
 
