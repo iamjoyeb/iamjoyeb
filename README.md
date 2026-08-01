@@ -98,12 +98,12 @@ const joyeb = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=38bdf8&text_color=8b949e&cache_seconds=1800" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
+<img height="175em" src="https://your-app.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
+<img height="175em" src="https://your-app.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=iamjoyeb&theme=transparent&hide_border=true&background=0D1117&stroke=1f2937&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=4b5563" />
+<img src="https://your-app.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
 
 </div>
 
@@ -119,16 +119,16 @@ const joyeb = {
 
 <div align="center">
 
-<!-- Weekly commit activity graph -->
-<img width="100%" style="border-radius: 12px;" src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoyeb&bg_color=0d1117&color=38bdf8&line=3b82f6&point=f97316&area=true&hide_border=true&custom_title=Weekly+Commit+Activity" />
+<!-- Daily commit activity over the last 90 days (self-hosted) -->
+<img width="100%" style="border-radius: 12px;" src="https://your-app.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
 
 <br/><br/>
 
-<!-- Animated contribution snake, committed to the "output" branch by snake.yml -->
+<!-- Animated contribution snake (self-hosted, theme-aware) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" width="100%" style="border-radius: 12px;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-app.vercel.app/api/snake?username=iamjoyeb&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://your-app.vercel.app/api/snake?username=iamjoyeb&theme=light" />
+  <img alt="contribution snake animation" src="https://your-app.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="100%" style="border-radius: 12px;" />
 </picture>
 
 </div>
@@ -145,7 +145,7 @@ const joyeb = {
 
 <div align="center">
 
-<img src="./trophy.svg" />
+<img src="https://your-app.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
 
 </div>
 
