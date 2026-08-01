@@ -119,13 +119,8 @@ const joyeb = {
 
 <div align="center">
 
-<!-- Live contribution calendar (green squares), refreshes on every view -->
-<img src="https://ghchart.rshah.org/38bdf8/iamjoyeb" alt="Joyeb's contribution graph" width="100%" />
-
-<br/><br/>
-
 <!-- Weekly commit activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoyeb&bg_color=0d1117&color=38bdf8&line=3b82f6&point=f97316&area=true&hide_border=true&custom_title=Weekly+Commit+Activity" />
+<img width="100%" style="border-radius: 12px;" src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoyeb&bg_color=0d1117&color=38bdf8&line=3b82f6&point=f97316&area=true&hide_border=true&custom_title=Weekly+Commit+Activity" />
 
 <br/><br/>
 
@@ -133,7 +128,7 @@ const joyeb = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/iamjoyeb/iamjoyeb/output/github-contribution-grid-snake.svg" width="100%" style="border-radius: 12px;" />
 </picture>
 
 </div>
