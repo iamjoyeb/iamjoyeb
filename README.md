@@ -99,7 +99,7 @@ const joyeb = {
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=iamjoyeb&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=38bdf8&text_color=8b949e&cache_seconds=1800" />
-<img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoyeb&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
 
 <br/>
 
