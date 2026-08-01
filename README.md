@@ -92,8 +92,6 @@ const joyeb = {
 
 <br/>
 
-
-
 ## 📊 &nbsp;GitHub Stats
 
 <br/>
@@ -107,9 +105,52 @@ const joyeb = {
 
 <img src="https://streak-stats.demolab.com?user=iamjoyeb&theme=transparent&hide_border=true&background=0D1117&stroke=1f2937&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=4b5563" />
 
+</div>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoyeb&bg_color=0d1117&color=38bdf8&line=3b82f6&point=f97316&area=true&hide_border=true&custom_title=Contribution+Activity" />
+---
+
+<br/>
+
+## 🔥 &nbsp;Contribution Activity
+
+<br/>
+
+<div align="center">
+
+<!-- Live contribution calendar (green squares), refreshes on every view -->
+<img src="https://ghchart.rshah.org/38bdf8/iamjoyeb" alt="Joyeb's contribution graph" width="100%" />
+
+<br/><br/>
+
+<!-- Weekly commit activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoyeb&bg_color=0d1117&color=38bdf8&line=3b82f6&point=f97316&area=true&hide_border=true&custom_title=Weekly+Commit+Activity" />
+
+<br/><br/>
+
+<!-- Animated contribution snake, committed by the metrics workflow below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="./dist/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 &nbsp;GitHub Trophies
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamjoyeb&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -190,7 +231,7 @@ Design for scale.
 <br/>
 
 [![Follow on GitHub](https://img.shields.io/github/followers/iamjoyeb?style=for-the-badge&label=Follow+on+GitHub&logo=github&color=161b22&logoColor=white)](https://github.com/iamjoyeb)
- 
+
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=iamjoyeb&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/iamjoyeb)
