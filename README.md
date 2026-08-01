@@ -100,10 +100,10 @@ const joyeb = {
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td align="center" valign="top" width="55%">
 <img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
 </td>
-<td valign="top" width="45%">
+<td align="center" valign="top" width="45%">
 <img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
 </td>
 </tr>
