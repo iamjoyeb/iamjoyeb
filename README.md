@@ -101,10 +101,10 @@ const joyeb = {
 <table>
 <tr>
 <td align="center" valign="middle" width="55%">
-<img width="495" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
+<img width="470" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
 </td>
 <td align="center" valign="middle" width="45%">
-<img width="495" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
+<img width="380" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
 </td>
 </tr>
 </table>
@@ -128,7 +128,7 @@ const joyeb = {
 <div align="center">
 
 <!-- Daily commit activity over the last 90 days (self-hosted) -->
-<img width="495" style="border-radius: 12px;" src="https://github-stats-iam-joyeb.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
+<img width="760" style="border-radius: 12px;" src="https://github-stats-iam-joyeb.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
 
 <br/><br/>
 
@@ -153,7 +153,7 @@ const joyeb = {
 
 <div align="center">
 
-<img width="700" src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
+<img width="900" src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
 
 </div>
 
