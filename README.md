@@ -136,7 +136,7 @@ const joyeb = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=light" />
-  <img alt="contribution snake animation" src="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="540" style="border-radius: 12px;" />
+  <img alt="contribution snake animation" src="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="900" style="border-radius: 12px;" />
 </picture>
 
 </div>
