@@ -101,17 +101,17 @@ const joyeb = {
 <table>
 <tr>
 <td align="center" valign="middle" width="55%">
-<img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
+<img width="495" src="https://github-stats-iam-joyeb.vercel.app/api/stats?username=iamjoyeb&theme=dark" />
 </td>
 <td align="center" valign="middle" width="45%">
-<img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
+<img width="495" src="https://github-stats-iam-joyeb.vercel.app/api/top-langs?username=iamjoyeb&theme=dark&langs_count=6" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img width="600" src="https://github-stats-iam-joyeb.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
+<img width="440" src="https://github-stats-iam-joyeb.vercel.app/api/streak?username=iamjoyeb&theme=dark" />
 
 </div>
 
@@ -128,7 +128,7 @@ const joyeb = {
 <div align="center">
 
 <!-- Daily commit activity over the last 90 days (self-hosted) -->
-<img width="100%" style="border-radius: 12px;" src="https://github-stats-iam-joyeb.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
+<img width="495" style="border-radius: 12px;" src="https://github-stats-iam-joyeb.vercel.app/api/activity-graph?username=iamjoyeb&theme=dark&days=90" />
 
 <br/><br/>
 
@@ -136,7 +136,7 @@ const joyeb = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=light" />
-  <img alt="contribution snake animation" src="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="100%" style="border-radius: 12px;" />
+  <img alt="contribution snake animation" src="https://github-stats-iam-joyeb.vercel.app/api/snake?username=iamjoyeb&theme=dark" width="540" style="border-radius: 12px;" />
 </picture>
 
 </div>
@@ -153,7 +153,7 @@ const joyeb = {
 
 <div align="center">
 
-<img width="100%" src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
+<img width="700" src="https://github-stats-iam-joyeb.vercel.app/api/trophy?username=iamjoyeb&theme=dark" />
 
 </div>
 
